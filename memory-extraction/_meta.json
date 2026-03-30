@@ -1,0 +1,8 @@
+{
+  "name": "memory-extraction",
+  "version": "1.0.0",
+  "description": "自动从对话中提取 Entity/Relation/Observation 并更新知识图谱。基于 MCP Memory Server 设计。",
+  "author": "楼璃",
+  "tags": ["memory", "knowledge-graph", "mcp", "extraction"],
+  "license": "MIT"
+}

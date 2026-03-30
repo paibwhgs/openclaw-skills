@@ -1,0 +1,8 @@
+{
+  "name": "adaptive-tool-filter",
+  "version": "1.0.0",
+  "description": "智能过滤工具列表，根据任务意图筛选相关工具，减少 token 消耗。参考 LightAgent 设计。",
+  "author": "楼璃",
+  "tags": ["tools", "filter", "optimization", "token-saving"],
+  "license": "MIT"
+}
